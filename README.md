@@ -25,7 +25,7 @@ A C++ real-time multiplayer maze game that features:
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/abhiniveshmitra/Multiplayer-Maze-Game.git
+git clone https://github.com/abhiniveshmitra/MultiplayerGame
 cd Multiplayer-Maze-Game
 ```
 
